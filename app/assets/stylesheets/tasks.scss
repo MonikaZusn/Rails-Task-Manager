@@ -1,0 +1,19 @@
+// Place all the styles related to the Tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+i {
+  margin-right: 10px;
+}
+
+.options {
+  margin: 5px 5px;
+  text-decoration: none;
+}
